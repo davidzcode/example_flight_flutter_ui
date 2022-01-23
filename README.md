@@ -1,16 +1,30 @@
 # example_flight_flutter_ui
 
-A new Flutter application.
+A Flutter UI for an Flight Search APP
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/davidzcode/example_flight_flutter_ui/master/lib/screenshots/ss1.png" alt="Screenshot" width="350"/>
+  <img src="https://raw.githubusercontent.com/davidzcode/example_flight_flutter_ui/master/lib/screenshots/ss2.png" alt="Screenshot" width="350"/>
+</div>
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+**Step 1:**
 
-A few resources to get you started if this is your first Flutter project:
+Download or clone this repo by using the link below:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+```
+https://github.com/davidzcode/wallet_app.git
+```
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Step 2:**
+
+Go to project root and execute the following command in console to get the required dependencies: 
+
+```
+flutter pub get 
+```
+
+## Credits
+I want to give the credit of this UI to <a href="https://www.youtube.com/channel/UC3wqIkiaOUpO6EjJoCwH6_Q">Techie Blossom channel</a> where in this <a href="https://www.youtube.com/watch?v=GeMJz3EcBgs">video</a> he shows how to create it.
