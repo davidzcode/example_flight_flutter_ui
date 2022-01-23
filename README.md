@@ -15,7 +15,7 @@ A Flutter UI for an Flight Search APP
 Download or clone this repo by using the link below:
 
 ```
-https://github.com/davidzcode/wallet_app.git
+https://github.com/davidzcode/example_flight_flutter_ui
 ```
 
 **Step 2:**
